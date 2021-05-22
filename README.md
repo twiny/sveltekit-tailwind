@@ -1,0 +1,1 @@
+# SvelteKit & Tailwindcss starter template
