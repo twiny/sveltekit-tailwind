@@ -1,14 +1,18 @@
-# SvelteKit & Tailwindcss starter template
+# SvelteKit & Tailwindcss
 
-a starter template for internal projects using Sveltekit & Tailwindcss
+a Sveltekit starter template using Tailwind (JIT).
 
-
-## Clone
-
-```bash
-#] git clone https://github.com/issmeftah/sveltekit-tailwind.git my-app
-
-#] cd my-app
-
-#] npm install
+## Install
 ```
+git clone https://github.com/issmeftah/sveltekit-tailwind.git my-app
+
+cd my-app
+
+npm install
+```
+
+## Dev
+`npm run dev`
+
+## Build
+`npm run build`

@@ -1,2 +1,11 @@
-<h1 class="bg-red-400">Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script>
+	import Home from '$lib/Pages/Home.svelte';
+</script>
+
+<svelte:head>
+	<title>Hello world</title>
+	<meta name="robots" content="noindex nofollow" />
+	<html lang="en" />
+</svelte:head>
+
+<Home />
