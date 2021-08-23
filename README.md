@@ -4,7 +4,7 @@ a Sveltekit starter template using Tailwind (JIT).
 
 ## Install
 ```
-git clone https://github.com/issmeftah/sveltekit-tailwind.git my-app
+git clone https://github.com/twiny/sveltekit-tailwind.git my-app
 
 cd my-app
 
