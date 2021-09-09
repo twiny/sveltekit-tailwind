@@ -11,19 +11,19 @@
   "devDependencies": {
     "@sveltejs/adapter-static": "^1.0.0-next.16",
     "@sveltejs/kit": "^1.0.0-next.154",
-    "@typescript-eslint/eslint-plugin": "^4.29.2",
-    "@typescript-eslint/parser": "^4.29.2",
-    "autoprefixer": "^10.3.1",
+    "@typescript-eslint/eslint-plugin": "^4.31.0",
+    "@typescript-eslint/parser": "^4.31.0",
+    "autoprefixer": "^10.3.4",
     "eslint": "^7.32.0",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-svelte3": "^3.2.0",
-    "prettier": "~2.3.2",
-    "prettier-plugin-svelte": "^2.3.1",
-    "svelte": "^3.42.1",
-    "svelte-preprocess": "^4.7.4",
-    "tailwindcss": "^2.2.7",
+    "prettier": "~2.4.0",
+    "prettier-plugin-svelte": "^2.4.0",
+    "svelte": "^3.42.4",
+    "svelte-preprocess": "^4.9.4",
+    "tailwindcss": "^2.2.14",
     "tslib": "^2.3.1",
-    "typescript": "^4.3.5"
+    "typescript": "^4.4.2"
   },
   "type": "module",
   "dependencies": {
